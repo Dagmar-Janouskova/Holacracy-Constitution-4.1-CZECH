@@ -3,7 +3,7 @@
 PREAMBULE
 =========
 
-Tato **„Ústava"** definuje pravidla a postupy pro řízení a provoz organizace. **„Ratifikátoři"** přijímají tato pravidla jako strukturu formálních pravomocí pro **„Organizaci"** určenou při přijetí Ústavy, kterou může být celá entita nebo její část, kterou mají Ratifikátoři pravomoc řídit a provozovat. Ratifikátoři a kdokoli jiný kdo souhlasí s účastí na řízení a provozu organizace (dále **„Partneři"**), se mohou spolehnout na pravomoci, které tato ústava poskytuje a rovněž souhlasí s tím, že budou vázáni jejími povinnostmi a omezeními.
+Tato **„Ústava"** definuje pravidla a postupy pro řízení a provoz organizace. **„Ratifikátoři"** přijímají tato pravidla jako strukturu formálních pravomocí pro **„Organizaci"** určenou při přijetí Ústavy, kterou může být celá entita nebo její část, kterou mají Ratifikátoři pravomoc řídit a provozovat. Ratifikátoři a kdokoli jiný, kdo souhlasí s účastí na řízení a provozu organizace (dále **„Partneři"**), se mohou spolehnout na pravomoci, které tato ústava poskytuje a rovněž souhlasí s tím, že budou vázáni jejími povinnostmi a omezeními.
 
 ČLÁNEK I
 ========
@@ -27,15 +27,15 @@ Jako partner organizace máte následující odpovědnosti za každou roli, kter
 
 #### ZPRACOVÁVAT TENZE
 
-Vaší odpovědností je sledovat, jak je poslání a odpovědnosti vaší role vyjadřovány, porovnávat to s vaší vizí jejich potenciálně ideálního vyjádření, identifikovat rozdíly mezi současnou realitou a potenciálem, který cítíte (každý rozdíl představuje „tenzi"). Jste také zodpovědní za to, že se pokusíte vyřešit tyto tenze pomocí pravomocí a dalších mechanismů, které máte podle této ústavy k dispozici.
+Vaší odpovědností je sledovat, jak jsou poslání a odpovědnosti vaší role vyjadřovány, porovnávat to s vaší vizí jejich potenciálně ideálního vyjádření, identifikovat rozdíly mezi současnou realitou a potenciálem, který cítíte (každý rozdíl představuje „tenzi"). Jste také zodpovědní za to, že se pokusíte vyřešit tyto tenze pomocí pravomocí a dalších mechanismů, které máte podle této ústavy k dispozici.
 
 #### ZPRACOVÁVAT POSLÁNÍ A ODPOVĚDNOSTÍ
 
-Vaší odpovědností je pravidelně zvažovat, jak co nejlépe naplnit poslání vaší role a každou z jejich odpovědnosti, a to definováním:
+Vaší odpovědností je pravidelně zvažovat, jak co nejlépe naplnit poslání vaší role a každou z jejích odpovědností, a to definováním:
 
 a)  "**Dalších akcí**", což jsou akce, které byste mohli provést okamžitě a které by bylo užitečné provést okamžitě, přinejmenším v případě neexistence konkurenčních priorit; a
 
-b)  **„Projektů"**, což jsou specifické výstupy, které pro dosažení vyžadují více navazujících akcí, a na kterých by bylo užitečné pracovat, alespoň v případě neexistence konkurenčních priorit.
+b)  **„Projektů"**, což jsou specifické výstupy, které pro dosažení vyžadují více navazujících akcí, a na kterých by bylo užitečné pracovat alespoň v případě neexistence konkurenčních priorit.
 
     1.  #### ZPRACOVÁVAT PROJEKTY
 
@@ -43,15 +43,15 @@ Vaší odpovědností je pravidelně zvažovat, jak dokončit každý projekt, n
 
 #### SLEDOVAT PROJEKTY, DALŠÍ AKCE A TENZE
 
-Vaší odpovědností je zachytit a sledovat všechny projekty a následující akce pro vaši Roli v databázi nebo podobné hmatatelné podobě a tuto databázi pravidelně revidovat a aktualizovat, aby byla důvěryhodným seznamem probíhajících a potenciálních práci Role. Zároveň je Vaší odpovědností sledovat jakékoli tenze, které identifikujete pro vaši Roli, alespoň do té doby než je zpracujete do požadovaných Projektů nebo Dalších akcí nebo je nevyřešíte jiným způsobem.
+Vaší odpovědností je zachytit a sledovat všechny projekty a následující akce pro vaši roli v databázi nebo podobné hmatatelné podobě a tuto databázi pravidelně revidovat a aktualizovat, aby byla důvěryhodným seznamem probíhajících a potenciálních práci role. Zároveň je Vaší odpovědností sledovat jakékoli tenze, které identifikujete pro vaši roli, alespoň do té doby než je zpracujete do požadovaných "Projektů" nebo "Dalších akcí" nebo je nevyřešíte jiným způsobem.
 
 #### ZAMĚŘOVAT POZORNOST A ZDROJE
 
-Kdykoli máte k dispozici čas jednat v rámci své Role, je vaší odpovědností zvažovat potenciální další akce, které byste v tomto okamžiku mohli účinně a efektivně provádět, a vykonávat ze seznamu dalších akcí vše, o čem se domníváte, že bude největší přidanou hodnotou pro Organizaci.
+Kdykoli máte k dispozici čas jednat v rámci své role, je vaší odpovědností zvažovat potenciální další akce, které byste v tomto okamžiku mohli účinně a efektivně provádět, a vykonávat ze seznamu dalších akcí vše, o čem se domníváte, že bude největší přidanou hodnotou pro Organizaci.
 
 ### PRAVOMOC JEDNAT
 
-Jako partner přiřazený k Roli máte pravomoc provádět libovolné Další akce, o kterých se domníváte, že jsou užitečné pro naplnění Poslání nebo Odpovědností vaší Role.
+Jako partner přiřazený k roli máte pravomoc provádět libovolné Další akce, o kterých se domníváte, že jsou užitečné pro naplnění Poslání nebo Odpovědností vaší Role.
 
 Nemůžete nicméně ovládat nebo jinak ovlivňovat doménu vlastněnou jinou roli nebo jinou suverénní entitou, pokud k tomu nemáte jejich výslovné svolení. Pravomoc udělená v tomto odstavci je dále omezena v oddíle [[2.1.3.]{.underline}]
 
