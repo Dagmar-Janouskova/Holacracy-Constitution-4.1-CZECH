@@ -10,7 +10,7 @@ Tato ***„Ústava"*** definuje pravidla a postupy pro řízení a provoz organi
 
 Partneři organizace obvykle vykonávají práci pro organizaci tak, že jednají v explicitně definované roli. ***„Role"*** je organizační koncept s výstižným názvem a jedním či několika následujícími atributy:
 
-- **(a)** ***„Poslání"***, což je schopnost, potenciál nebo nerealizovatelný cíl, o který bude role dlouhodobě jménem organizace usilovat,
+- **(a)** ***„Záměr"***, což je schopnost, potenciál nebo nerealizovatelný cíl, o který bude role dlouhodobě jménem organizace usilovat,
 - **(b)** Jedna či více ***„Domén"***, což jsou hmotné a nehmotné věci, které role může výhradně ovládat jako svůj majetek, a to jménem organizace,
 - **(c)** Jedna či více ***„Odpovědností"***, jež jsou trvající opakované činnosti Organizace, které jsou přiřazené roli.
 
@@ -20,11 +20,11 @@ Jako partner organizace máte následující odpovědnosti za každou roli, kter
 
 #### 1.2.1 ZPRACOVÁVAT TENZE
 
-Vaší odpovědností je sledovat, jak je poslání a odpovědnosti vaší role vyjadřovány, porovnávat to s vaší vizí jejich potenciálně ideálního vyjádření, identifikovat rozdíly mezi současnou realitou a potenciálem, který cítíte (každý rozdíl představuje „tenzi"). Jste také zodpovědní za to, že se pokusíte vyřešit tyto tenze pomocí pravomocí a dalších mechanismů, které máte podle této ústavy k dispozici.
+Vaší odpovědností je sledovat, jak je záměr a odpovědnosti vaší role vyjadřovány, porovnávat to s vaší vizí jejich potenciálně ideálního vyjádření, identifikovat rozdíly mezi současnou realitou a potenciálem, který cítíte (každý rozdíl představuje „tenzi"). Jste také zodpovědní za to, že se pokusíte vyřešit tyto tenze pomocí pravomocí a dalších mechanismů, které máte podle této ústavy k dispozici.
 
-#### 1.2.2 ZPRACOVÁVAT POSLÁNÍ A ODPOVĚDNOSTÍ
+#### 1.2.2 ZPRACOVÁVAT ZÁMĚR A ODPOVĚDNOSTÍ
 
-Vaší odpovědností je pravidelně zvažovat, jak co nejlépe naplnit poslání vaší role a každou z jejich odpovědnosti, a to definováním:
+Vaší odpovědností je pravidelně zvažovat, jak co nejlépe naplnit záměr vaší role a každou z jejich odpovědnosti, a to definováním:
 
 - **(a)** "***Dalších akcí***", což jsou akce, které byste mohli provést okamžitě a které by bylo užitečné provést okamžitě, přinejmenším v případě neexistence konkurenčních priorit; a
 - **(b)** ***„Projektů"***, což jsou specifické výstupy, které pro dosažení vyžadují více navazujících akcí, a na kterých by bylo užitečné pracovat, alespoň v případě neexistence konkurenčních priorit.
@@ -43,7 +43,7 @@ Kdykoli máte k dispozici čas jednat v rámci své Role, je vaší odpovědnost
 
 ### 1.3 PRAVOMOC JEDNAT
 
-Jako partner přiřazený k Roli máte pravomoc provádět libovolné Další akce, o kterých se domníváte, že jsou užitečné pro naplnění Poslání nebo Odpovědností vaší Role.
+Jako partner přiřazený k Roli máte pravomoc provádět libovolné Další akce, o kterých se domníváte, že jsou užitečné pro naplnění Záměru nebo Odpovědností vaší Role.
 
 Nemůžete nicméně ovládat nebo jinak ovlivňovat doménu vlastněnou jinou roli nebo jinou suverénní entitou, pokud k tomu nemáte jejich výslovné svolení. Pravomoc udělená v tomto odstavci je dále omezena v oddíle [[2.1.3.]{.underline}]
 
@@ -60,7 +60,7 @@ Pravomoci, které vám uděluje tento oddíl, mohou být dále limitovány omeze
     
 ### 2.1 ZÁKLADNÍ PRAVIDLA KRUHU
 
-***„Kruh"*** je role, která se může dále rozdělit tak, že definuje své vlastní vnitřní Role k tomu, aby dosahovala svého Poslání, kontrolovala své Domény a naplnila své Odpovědnosti. Role, které kruh definuje, jsou jeho „***Definované role"*** a každý, kdo naplňuje jednu ze svých Definovaných rolí, je „Členem kruhu" daného kruhu.
+***„Kruh"*** je role, která se může dále rozdělit tak, že definuje své vlastní vnitřní Role k tomu, aby dosahovala svého Záměru, kontrolovala své Domény a naplnila své Odpovědnosti. Role, které kruh definuje, jsou jeho „***Definované role"*** a každý, kdo naplňuje jednu ze svých Definovaných rolí, je „Členem kruhu" daného kruhu.
 
 #### 2.1.1 DEFINOVÁNÍ ROLÍ A POLITIK
 
